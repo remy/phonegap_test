@@ -36,9 +36,9 @@
 /Users/remy/Sites/phonegap_test/platforms/android/assets/www/css/index.css \
 /Users/remy/Sites/phonegap_test/platforms/android/assets/www/img/logo.png \
 /Users/remy/Sites/phonegap_test/platforms/android/assets/www/js/index.js \
-/Users/remy/Sites/phonegap_test/platforms/android/assets/www/plugins/org.apache.cordova.plugin.websocket \
-/Users/remy/Sites/phonegap_test/platforms/android/assets/www/plugins/org.apache.cordova.plugin.websocket/www \
-/Users/remy/Sites/phonegap_test/platforms/android/assets/www/plugins/org.apache.cordova.plugin.websocket/www/phonegap-websocket.js \
+/Users/remy/Sites/phonegap_test/platforms/android/assets/www/plugins/org.apache.cordova.plugin.websocket.WebSocket \
+/Users/remy/Sites/phonegap_test/platforms/android/assets/www/plugins/org.apache.cordova.plugin.websocket.WebSocket/www \
+/Users/remy/Sites/phonegap_test/platforms/android/assets/www/plugins/org.apache.cordova.plugin.websocket.WebSocket/www/phonegap-websocket.js \
 /Users/remy/Sites/phonegap_test/platforms/android/assets/www/res/icon \
 /Users/remy/Sites/phonegap_test/platforms/android/assets/www/res/screen \
 /Users/remy/Sites/phonegap_test/platforms/android/assets/www/res/icon/android \
