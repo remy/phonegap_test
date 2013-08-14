@@ -35,7 +35,7 @@ Now the build process works that I call via
 
 ### cordova.exec in the JS
 
-The docs still refer to `cordova.exec(…)`, but when I used [jsconsole.com remote inspector][http://jsconsole.com/remote.html] to look at the `cordova` object, I found there was no `exec` method.
+The docs still refer to `cordova.exec(…)`, but when I used [jsconsole remote inspector](http://jsconsole.com/remote.html) to look at the `cordova` object, I found there was no `exec` method.
 
 Checking the official plugins for Camera, etc, I see:
 
